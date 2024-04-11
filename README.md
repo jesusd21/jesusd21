@@ -21,7 +21,7 @@ advancements.</p>
 
 - **Languages**:
 <div style="display: flex; justify-content: flex-start; margin-left: 5px;">
-***
+___
     <img src="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/83063147/8ff49271-1d28-4431-9b06-2906de16ccf5" style="margin-right: 10px;" width="25">
 	--
     <img src="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/83063147/894a2399-6b52-497e-bc43-9c6e60c7a0e0" style="margin-right: 10px;" width="25">
@@ -31,7 +31,7 @@ advancements.</p>
     <img src="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/83063147/c72f3634-e004-429c-974b-b5cf2d2a04cc" style="margin-right: 10px;" width="25">
 	--
     <img src="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/assets/83063147/36e4ecb5-5c26-4c50-b2f4-a292645f2ae6" width="25">
-***
+___
 </div>
 
 
