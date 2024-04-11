@@ -1,4 +1,4 @@
- <picture><img src = "https://drive.google.com/file/d/1wZW1h5r36MQstJpdqqSk1ALpfK8tlm2T/view?usp=drive_link"></picture>
+ <picture><img src = "https://drive.google.com/file/d/1wZW1h5r36MQstJpdqqSk1ALpfK8tlm2T/view?usp=drive_link" width='100%'></picture>
  <br>
  <br>
 <h1 align="center"><b>Hi , I'm Jesús Ramírez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
