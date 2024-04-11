@@ -1,4 +1,4 @@
- <picture><img src = "https://drive.google.com/file/d/1wZW1h5r36MQstJpdqqSk1ALpfK8tlm2T/view?usp=drive_link" widht='100%'></picture>
+![Developer R (1) (1)](https://github.com/jesusd21/jesusd21/assets/83063147/bed1af92-9352-4d2d-8e85-9d7fea4eb1bf)
  <br>
  <br>
 <h1 align="center"><b>Hi , I'm Jesús Ramírez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
